@@ -1,5 +1,5 @@
 import random
-from telnetlib import DO
+
 
 
 print("Exercise 1")
